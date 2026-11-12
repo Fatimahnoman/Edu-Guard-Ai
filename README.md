@@ -17,7 +17,18 @@
 [![Vitest](https://img.shields.io/badge/Tests-1106_passing-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](#-testing--quality)
 [![CI](https://img.shields.io/github/actions/workflow/status/Fatimahnoman/Edu-Guard-Ai/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/Fatimahnoman/Edu-Guard-Ai/actions)
 
+<br />
+
+### 🏆 **Winner — 1st Position · Alibaba Cloud AI Hackathon** 🏆
+
+[![Hackathon Winner](https://img.shields.io/badge/🏆_HACKATHON_WINNER-1st_POSITION-FFD700?style=for-the-badge&labelColor=1a1a2e)](#-achievements)
+[![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-AI_Hackathon-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)](#-achievements)
+
 </div>
+
+---
+
+> 🥇 **Award-winning project** — EduGuard AI was selected as the **1st position winner** at the **Alibaba Cloud AI Hackathon**, recognised for its real-world impact on students' education, finances, and online safety.
 
 ---
 
@@ -34,6 +45,22 @@
 It combines **6 specialized AI agents**, a **curated education database**, and a **multi-layer fraud detection engine** — all behind a secure, role-based authentication system.
 
 > 🌟 **Built for Pakistan:** PKR amounts, HEC-recognised universities, FBR tax slabs, SBP banking rules, Islamic finance, provincial scholarship schemes, and local fraud patterns — not generic AI answers.
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 Award | 🏟️ Event | 🎖️ Result |
+|:--|:--|:--|
+| **Winner — 1st Position** | **Alibaba Cloud AI Hackathon** | 🥇 **Grade 1 / First Place** |
+
+</div>
+
+EduGuard AI was selected as the **top project (1st position)** at the **Alibaba Cloud AI Hackathon** — recognised for combining AI, real education data, financial literacy, and fraud protection into a single platform that solves genuine problems for students.
+
+> 💡 **Why it stood out:** real-world impact, working end-to-end product, grounded AI (not just prompts), and a clear Pakistan-first mission.
 
 ---
 
@@ -448,6 +475,8 @@ Please keep PRs focused, include tests for new logic, and follow the existing se
 ### 🛡️ EduGuard AI
 
 **No student should lose money to a scam, miss a scholarship deadline, or make a wrong career decision because of missing information.**
+
+🏆 **Winner — 1st Position · Alibaba Cloud AI Hackathon**
 
 Made with ❤️ for Pakistani students 🇵🇰
 
