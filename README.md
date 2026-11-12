@@ -16,6 +16,7 @@
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Vitest](https://img.shields.io/badge/Tests-1106_passing-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](#-testing--quality)
 [![CI](https://img.shields.io/github/actions/workflow/status/Fatimahnoman/Edu-Guard-Ai/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/Fatimahnoman/Edu-Guard-Ai/actions)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Site-22C55E?style=for-the-badge)](https://edu-guard-ai-ivory.vercel.app)
 
 <br />
 
@@ -29,6 +30,8 @@
 ---
 
 > 🥇 **Award-winning project** — EduGuard AI was selected as the **1st position winner** at the **Alibaba Cloud AI Hackathon**, recognised for its real-world impact on students' education, finances, and online safety.
+
+> 🌐 **Live demo:** **[edu-guard-ai-ivory.vercel.app](https://edu-guard-ai-ivory.vercel.app)**
 
 ---
 
@@ -388,6 +391,8 @@ npm run build           # Production build + type check
 ## ☁️ Deploy to Vercel
 
 EduGuard ships with a `vercel-build` script (`prisma generate && next build`), so Vercel needs **no custom build settings**.
+
+> 🌐 **This project is deployed at [edu-guard-ai-ivory.vercel.app](https://edu-guard-ai-ivory.vercel.app)** — every push to `main` triggers an automatic production deployment.
 
 ### Steps
 
