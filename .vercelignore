@@ -1,0 +1,17 @@
+# Never upload local secrets or build artifacts to Vercel
+.env
+.env.*
+!.env.example
+
+# Build & cache
+.next
+out
+node_modules
+.vercel
+.vercel-tmp
+*.tsbuildinfo
+
+# Local junk
+*.log
+login-failed.png
+scripts/audit-*.txt
